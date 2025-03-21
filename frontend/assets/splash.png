@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="2436" viewBox="0 0 1242 2436">
+  <rect width="1242" height="2436" fill="#FFFFFF" />
+  <g transform="translate(371, 968)">
+    <rect width="500" height="500" fill="#4CAF50" />
+    <circle cx="250" cy="250" r="175" fill="#FFFFFF" />
+    <path d="M250 125 Q 325 175 325 250 Q 325 325 250 375 Q 175 325 175 250 Q 175 175 250 125 Z" fill="#4CAF50" />
+    <circle cx="250" cy="200" r="25" fill="#4CAF50" />
+    <text x="250" y="550" font-family="Arial" font-size="72" font-weight="bold" text-anchor="middle" fill="#4CAF50">Greenie</text>
+  </g>
+</svg>

@@ -1,5 +1,5 @@
 import google.generativeai as genai
-from langchain.llms import GoogleGenerativeAI
+from langchain_google_genai import GoogleGenerativeAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from typing import Dict, Any, Optional, List
